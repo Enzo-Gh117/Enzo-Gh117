@@ -1,40 +1,51 @@
-<h1 align="center">Hi there, I'm Enzo 👋</h1>
+<div align="center">
 
-<h3 align="center">
-Independent Developer & Digital Entrepreneur
-</h3>
+# Hi, I'm Enzo 👋
+
+### Independent Developer & Digital Entrepreneur
+
+Building useful web platforms, learning modern technologies,  
+and turning ideas into real products.
+
+[![Sri Lanka](https://img.shields.io/badge/Sri_Lanka-111827?style=flat-square&logo=googlemaps&logoColor=white)](#)
+[![Website](https://img.shields.io/badge/ezads.site-111827?style=flat-square&logo=googlechrome&logoColor=white)](https://ezads.site)
+
+</div>
 
 ---
 
-### 🚀 About Me
+### About Me
 
-- 🌍 Based in Sri Lanka
-- 💻 Building web applications and digital platforms
-- 🌱 Learning AI automation and server management
-- 🔐 Interested in web security and scalable systems
-- ⚡ Passionate about turning ideas into real products
+- Based in Sri Lanka 🇱🇰
+- Building web applications and digital platforms
+- Exploring AI automation and server management
+- Interested in web security and scalable systems
+- Always learning, experimenting, and improving
 
-### 💻 Tech Stack
+### Tech Stack
 
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
+<p>
+  <img src="https://img.shields.io/badge/PHP-111827?style=flat-square&logo=php&logoColor=white" alt="PHP">
+  <img src="https://img.shields.io/badge/MySQL-111827?style=flat-square&logo=mysql&logoColor=white" alt="MySQL">
+  <img src="https://img.shields.io/badge/JavaScript-111827?style=flat-square&logo=javascript&logoColor=white" alt="JavaScript">
+  <img src="https://img.shields.io/badge/HTML5-111827?style=flat-square&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS3-111827?style=flat-square&logo=css&logoColor=white" alt="CSS3">
+  <img src="https://img.shields.io/badge/Linux-111827?style=flat-square&logo=linux&logoColor=white" alt="Linux">
+  <img src="https://img.shields.io/badge/Docker-111827?style=flat-square&logo=docker&logoColor=white" alt="Docker">
+  <img src="https://img.shields.io/badge/Cloudflare-111827?style=flat-square&logo=cloudflare&logoColor=white" alt="Cloudflare">
+</p>
 
-### 🚀 My Projects
+### Selected Projects
 
 | Project | Description |
-|---------|-------------|
-| [EZADS](https://ezads.site) | Digital advertising platform |
+|:--------|:------------|
+| [EZADS](https://ezads.site) | Digital advertising and monetization platform |
 | [Zercoin](https://zercoin.click) | Cryptocurrency rewards platform |
-| Farming Game | Browser-based farming economy |
 
 ---
 
-<p align="center">
-Build. Learn. Improve. Repeat.
-</p>
+<div align="center">
+
+<sub>Build · Learn · Improve · Repeat</sub>
+
+</div>
